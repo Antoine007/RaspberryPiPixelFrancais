@@ -8,7 +8,7 @@ Elle est installable sur la plupart des ordis de moins de 10 ans ( même s'ils r
 ### 1- Telecharger le fichier .iso
 + [ici](http://downloads.raspberrypi.org/pixel_x86/images/pixel_x86-2016-12-13/2016-12-13-pixel-x86-jessie.iso "Rasberry Pi Pixel")
 
-### 2. Bruler ce fichier sur une clef USB avec:
+### 2. Graver ce fichier sur une clef USB avec:
 -Sous [Windows](https://rufus.akeo.ie/ "Rufus")
 
 -Sous [Mac](https://etcher.io/ "Etcher")
@@ -36,7 +36,7 @@ Pour les plus impatients, Raspberry Pi vend ses 'vrais' (stables) ordis sur [Ama
 Ce sont de toutes petites cartes mères qu'il faut simplement brancher à un écran.
 
 ### Notes:
--Pour L’etape 2, on peut aussi brûler le fichier .iso sur un DVD…
+-Pour L’etape 2, on peut aussi graver le fichier .iso sur un DVD…
 
 -Si les liens changent, aller voir https://www.raspberrypi.org/blog/pixel-pc-mac/, ou Googler "Raspberry Pi Pixel” !
 
