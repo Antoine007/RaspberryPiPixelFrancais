@@ -6,7 +6,7 @@ Elle est installable sur la plupart des ordis de moins de 10 ans ( même s'ils r
 
 
 ### 1- Telecharger le fichier .iso
-+ [ici](http://downloads.raspberrypi.org/pixel_x86/images/pixel_x86-2016-12-13/2016-12-13-pixel-x86-jessie.iso "Rasberry Pi Pixel")
++ [ici](http://downloads.raspberrypi.org/rpd_x86/images/rpd_x86-2017-12-01/2017-11-16-rpd-x86-stretch.iso)
 
 ### 2. Graver ce fichier sur une clef USB avec:
 -Sous [Windows](https://rufus.akeo.ie/ "Rufus")
